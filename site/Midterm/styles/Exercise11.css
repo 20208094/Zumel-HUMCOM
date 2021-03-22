@@ -36,10 +36,7 @@ body{
 .flex-container{
     justify-content: space-around;
 }
-.flex-item{
-    width: 100px;
-    margin: 15px;
-}
+
 .one{
     width:36%;
     margin-right: 15px;
