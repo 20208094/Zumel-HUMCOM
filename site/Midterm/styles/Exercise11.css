@@ -42,8 +42,8 @@ body{
 }
 .one{
     width:37%;
-    margin-right: 15px;
-    min-height: 881px;
+    margin-right: 15;
+    height: 881px;
 }
 .two{
     width:62%;
