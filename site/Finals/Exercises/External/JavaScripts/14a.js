@@ -1,0 +1,6 @@
+document.getElementById("name").innerHTML="Name: RIE ZHENZY REGACHO ZUMEL";
+document.getElementById("course").innerHTML="Course: Bachelor of Science in Computer Science";
+document.getElementById("year").innerHTML="Year: 1st Year College (S.Y. 2020-2021)";
+document.getElementById("subCode").innerHTML="Subject Code: HUMCOM1";
+document.getElementById("section").innerHTML="Section: IAA-1";
+document.getElementById("subDescription").innerHTML="Subject Description: This course teaches students to design user interfaces based on the capabilities of computer technology and the needs of human factors. The course covers human capabilities, design principles, prototyping techniques, evaluation techniques, and the implementation of graphical user interfaces. Deliverables include short programming assignments and a semester-long individual/group project. Students design a user interface for a system and implement a prototype from a list of informal requirements. Students design a user interface by a design process based on current human–computer interaction principles.";

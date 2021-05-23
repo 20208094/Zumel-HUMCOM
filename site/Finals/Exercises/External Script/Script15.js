@@ -1,0 +1,19 @@
+const first_name='Rie Zhenzy Zumel';
+const age='19';
+const phone='09266611083';
+const email='20208094@s.ubaguio.edu';
+const mailing='Upper Pinger, Baguio City';
+const prog='Computer Science';
+const idnum='20208094';
+const yearLevel='1st Year ';
+const section='IAA-1';
+//output
+document.getElementById("first_name").innerHTML=first_name;
+document.getElementById("age").innerHTML=age;
+document.getElementById("phone").innerHTML=phone;
+document.getElementById("email").innerHTML=email;
+document.getElementById("mailing").innerHTML=mailing;
+document.getElementById("prog").innerHTML=prog;
+document.getElementById("idnum").innerHTML=idnum;
+document.getElementById("yearLevel").innerHTML=yearLevel;
+document.getElementById("section").innerHTML=section;
